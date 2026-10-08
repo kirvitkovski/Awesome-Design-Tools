@@ -5,6 +5,8 @@
 - [Awesome Design Plugins](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Plugins.md)
 - [Awesome Design Conferences](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-Conferences.md)
 - [Awesome Design UI Kits](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Awesome-Design-UI-Kits.md)
+- [Metranpage](https://metranpage.com/) - AI-powered book and document layout tool that automates desktop publishing.
+   
 
 <p align="center">
     <a href="https://flawlessapp.io/designtools">
